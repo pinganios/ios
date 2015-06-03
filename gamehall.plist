@@ -10,7 +10,7 @@
 				<dict>
 					<key>kind</key>
 					<string>software-package</string>
-					<key>https://pinganios.github.io/ios/gamehall.plist</key>
+					<key>https://pinganios.github.io/ios/WLT_GameHall.ipa</key>
 					<string></string>
 				</dict>
 			</array>
